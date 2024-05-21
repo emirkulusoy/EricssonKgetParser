@@ -27,10 +27,10 @@ project/
 
 XXX99999X> kget all
 
-=================================================================================================================
+
 Proxy Id                             0
 MO                                   SubNetwork=ONRM_ROOT_MO,SubNetwork=WestSacramento,MeContext=XXX99999X,ManagedElement=XXX99999X
-=================================================================================================================
+
 dnPrefix                             SubNetwork=ONRM_ROOT_MO,SubNetwork=WestSacramento,MeContext=XXX99999X
 locationName                         
 logicalName                          
@@ -44,10 +44,10 @@ swVersion                            22.Q2
 userDefinedState                     
 userLabel                            XXX99999X
 vendorName                           Ericsson AB
-=================================================================================================================
+
 Proxy Id                             1
 MO                                   SubNetwork=ONRM_ROOT_MO,SubNetwork=WestSacramento,MeContext=XXX99999X,ManagedElement=XXX99999X,ENodeBFunction=1
-=================================================================================================================
+
 alignTtiBundWUlTrigSinr              0 (OFF)
 allowMocnCellLevelCommonTac          true
 altNasBackTo                         0 (DEFAULT_DCN)
@@ -298,10 +298,10 @@ zzzTemporary82                       -2000000000
 zzzTemporary83                       -2000000000
 zzzTemporary84                       -2000000000
 zzzTemporary9                        -2000000000
-=================================================================================================================
+
 Proxy Id                             2
 MO                                   SubNetwork=ONRM_ROOT_MO,SubNetwork=WestSacramento,MeContext=XXX99999X,ManagedElement=XXX99999X,ENodeBFunction=1,AdmissionControl=1
-=================================================================================================================
+
 admNrRbDifferentiationThr            750
 admNrRrcDifferentiationThr           1000
 admResourceMinQciPrio                5
@@ -364,17 +364,17 @@ zzzTemporary4
 zzzTemporary5                        -2000000000
 zzzTemporary6                        -2000000000
 zzzTemporary7                        -2000000000
-=================================================================================================================
+
 Proxy Id                             3
 MO                                   SubNetwork=ONRM_ROOT_MO,SubNetwork=WestSacramento,MeContext=XXX99999X,ManagedElement=XXX99999X,ENodeBFunction=1,AmoFunction=1
-=================================================================================================================
+
 allowInterVendorX2Signal             true
 amoAllowedInterVendor                true
 amoFunctionId                        1
-=================================================================================================================
+
 Proxy Id                             4
 MO                                   SubNetwork=ONRM_ROOT_MO,SubNetwork=WestSacramento,MeContext=XXX99999X,ManagedElement=XXX99999X,ENodeBFunction=1,AnrFunction=1
-=================================================================================================================
+
 anrFunctionId                        1
 cellRelHoAttRateThreshold            10
 detectObsoleteExtCellsEnabled        false
@@ -413,10 +413,10 @@ zzzTemporary5                        -2000000000
 zzzTemporary6                        -2000000000
 zzzTemporary7                        -2000000000
 zzzTemporary9                        -2000000000
-=================================================================================================================
+
 Proxy Id                             5
 MO                                   SubNetwork=ONRM_ROOT_MO,SubNetwork=WestSacramento,MeContext=XXX99999X,ManagedElement=XXX99999X,ENodeBFunction=1,AnrFunction=1,AnrFunctionEUtran=1
-=================================================================================================================
+
 acquirePlmnIdListEnabled             false
 anrEutranInterFMeasReportDecr        1
 anrEutranInterFMeasReportIncr        10
@@ -440,10 +440,10 @@ cellAddRsrqThresholdEutran           -1920
 hoAllowedEutranPolicy                true
 lbCellOffloadCapacityPolicy          1000
 x2SetupPolicy                        true
-=================================================================================================================
+
 Proxy Id                             6
 MO                                   SubNetwork=ONRM_ROOT_MO,SubNetwork=WestSacramento,MeContext=XXX99999X,ManagedElement=XXX99999X,ENodeBFunction=1,AnrFunction=1,AnrFunctionGeran=1
-=================================================================================================================
+
 anrFunctionGeranId                   1
 anrGeranMeasReportDecr               1
 anrGeranMeasReportIncr               10
